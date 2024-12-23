@@ -1,0 +1,14 @@
+{
+  "text": "Random text 45 from web server",
+  "author": "TRMNL",
+  "collection": [
+    {
+      "title": "Book title",
+      "description": "Some description"
+    },
+    {
+      "title": "Another book",
+      "description": "Another description"
+    }
+  ]
+}
